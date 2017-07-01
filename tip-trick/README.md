@@ -1,6 +1,6 @@
-# java tip-trick
+# tip-trick
 
-Programming trips and tricks, ideas, memos.
+Java programming trips and tricks, ideas, memos...
 
 1) interface: Declaring and using interface.
 
