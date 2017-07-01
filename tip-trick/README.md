@@ -1,7 +1,6 @@
 # java tip-trick
 
-Programozási trükkök, fogások, emlékeztetők
+Programming trips and tricks, ideas, memos.
 
-## interface
-Java interface deklarálása és alkalmazása
+1) interface: Declaring and using interface.
 
