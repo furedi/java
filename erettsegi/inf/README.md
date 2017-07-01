@@ -1,7 +1,6 @@
-# Informatik érettségi feladatok megoldása
+# Informatika érettségi feladatok megoldása
 
 ## Középszint
-...
 
 ## Emelt szint
 
