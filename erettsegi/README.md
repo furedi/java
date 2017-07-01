@@ -1,5 +1,5 @@
 # Érettségi programozási feladatok megoldása Javaban
 
-## Informatika - inf
+Informatika - inf
 
-## Informatika ismeretek - infoism
+Informatika ismeretek - infoism
