@@ -1,5 +1,5 @@
 # Érettségi programozási feladatok megoldása Javaban
-Language - Hungarian
+Language: Hungarian
 
 Informatika - inf
 
