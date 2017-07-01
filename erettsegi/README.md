@@ -1,4 +1,4 @@
-# Java Érettségi feladatok megoldása
+# Érettségi programozási feladatok megoldása Javaban
 
 ## Informatika ismeretek
 ### Középszint
