@@ -1,10 +1,10 @@
 # Java example programs
 
-## erettsegi
+## erettsegi - high-school graduation in Hungary
 Informatika és informatika ismeretek programozási feladatok megoldása Javaban
 
 ## interview
-Java interview feladatok és megoldásai
+Java interview exercises and solutions
 
 ## tip-trick
-Programozási tippek és trükkök
+Programming trips and tricks
