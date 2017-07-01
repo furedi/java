@@ -1,7 +1,7 @@
 # Java example programs
 
 ## erettsegi - high-school graduation in Hungary
-Informatika és informatika ismeretek programozási feladatok megoldása Javaban
+"Informatika" and "Informatika ismeretek" programming exercises and solutions with Java
 
 ## interview
 Java interview exercises and solutions
