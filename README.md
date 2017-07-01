@@ -1,5 +1,4 @@
-# java
-Java example programs
+# Java example programs
 
 ## erettsegi
 Informatika és informatika ismeretek programozási feladatok megoldása Javaban
