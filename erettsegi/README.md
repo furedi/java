@@ -1,6 +1,6 @@
 # Érettségi programozási feladatok megoldása Javaban
+Language - Hungarian
 
 Informatika - inf
-Informatika ismeretek - infoism
 
-Language - Hungarian
+Informatika ismeretek - infoism
