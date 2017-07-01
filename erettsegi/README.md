@@ -1,8 +1,9 @@
 # Java Érettségi feladatok megoldása
 
-## Informatika ismeretek középszint
+## Informatika ismeretek
+### Középszint
 2017 május 17. - helsink1952.java
 
-## Informatika ismeretek emelt szint
+### Emelt szint
 2017 május 17. - txt2srt.java
 
