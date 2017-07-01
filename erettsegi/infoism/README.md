@@ -1,7 +1,5 @@
 # Informatika ismeretek érettségi feladatok megoldása
 
-## Középszint
+Középszint - kozep
 
-## Emelt szint
-
-
+Emelt szint - emelt
