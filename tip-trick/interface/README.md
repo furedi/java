@@ -1,4 +1,5 @@
 # Java interface használatának bemutatása
+Language: Hungarian
 
 Feladat: Egy oktatási intézmény tanfolyamot szervez, amihez a tanárai közül választ oktatókat. Listázzuk ki a tanfolyamra beosztott tanárokat a “Tanar“ interface segítségével. Az interface-ben megadott szignatúrájú metódusokat az “Oktato” osztályban implementáljuk.
 
