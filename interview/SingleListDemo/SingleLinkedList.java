@@ -3,6 +3,7 @@
  */
 public class SingleLinkedList<T> {
 	private Node<T> head = null;
+	private int size = 0;
 	
 	public void add(T element){
 		Node<T> node = new Node<T>();
@@ -16,6 +17,11 @@ public class SingleLinkedList<T> {
 			}
 			tmp.setNextRef(node);
 		}
+		size++;
+	}
+	
+	public int getSize(){
+		return this.size;
 	}
 	
 	public T getFirst(){
